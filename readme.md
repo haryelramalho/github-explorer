@@ -40,13 +40,6 @@ This small web application was developed in order to study the main concepts of 
 
 I made the deploy on GitHub Pages, [access](https://haryelramalho.github.io/github-explorer/) 📲
 
-<details><summary>Project Layout</summary>
-  <img alt="Dashboard-Dark" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588186808/github-explorer/Captura_de_Tela_2020-04-29_a%CC%80s_15.55.32_rulsfk.png">
-  <img alt="Repository-Dark" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588186811/github-explorer/Captura_de_Tela_2020-04-29_a%CC%80s_15.55.44_inimy1.png">
-  <img alt="Dashboard-Light" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588187143/github-explorer/Captura_de_Tela_2020-04-29_a%CC%80s_16.05.24_z06pcs.png">
-  <img alt="Repository-Light" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588187172/github-explorer/Captura_de_Tela_2020-04-29_a%CC%80s_16.06.03_cancm1.png">
-</details>
-
 ## 🚀 Technologies
 
 Technologies that I used to develop this web application
@@ -71,7 +64,7 @@ Technologies that I used to develop this web application
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/github-explorer.git && cd github-explorer
+$ git clone https://github.com/haryelramalho/github-explorer.git && cd github-explorer
 ```
 
 **Follow the steps below**
@@ -92,7 +85,7 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/github-explorer
+$ gh repo fork haryelramalho/github-explorer
 ```
 
 **Follow the steps below**
@@ -119,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜&nbsp; by Haryel Ramalho 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜&nbsp; by Haryel Ramalho 👋 &nbsp;[See my linkedin](https://www.linkedin.com/in/haryelramalho/)
